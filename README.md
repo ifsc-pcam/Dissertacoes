@@ -17,4 +17,4 @@ Este é o repositório de dissertações defendidas no Mestrado em Clima e Ambie
 
 ## Turma 2017
 
-[Cleusa Matiola Petrovcic](https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap)
+Cleusa Matiola Petrovcic: [A avaliação dos elementos climáticos socioeconômicos e sua relação com o Aedes aegypti nos municípios de Chapecó/SC e Itajaí/SC]([https://github.com/users/sergiopetrovcic/projects/8/views/1?layout=roadmap](https://repositorio.ifsc.edu.br/bitstream/handle/123456789/1515/DISSERTA%c3%87%c3%83O_FINAL_CLEUSA%20.pdf?sequence=1&isAllowed=y)https://repositorio.ifsc.edu.br/bitstream/handle/123456789/1515/DISSERTA%c3%87%c3%83O_FINAL_CLEUSA%20.pdf?sequence=1&isAllowed=y)
